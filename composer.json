@@ -1,0 +1,17 @@
+{
+    "name": "max-antipin/git-demo",
+    "description": "git demo by Max Antipin",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Maxim Antipin",
+            "email": "max.v.antipin@gmail.com",
+            "homepage": "https://github.com/max-antipin",
+            "role": "Developer"
+        }
+    ],
+    "license": "Unlicense",
+    "require": {
+        "php": ">=8.1"
+    }
+}
